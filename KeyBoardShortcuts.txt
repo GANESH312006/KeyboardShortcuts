@@ -1,2 +1,6 @@
--> Control-: 
-
+-> Control-n:
+  Open New File
+-> Control-s: 
+  Save The File
+-> Escape:
+  To Close The Parent Window
