@@ -1,0 +1,4 @@
+requirements for the App:
+  versions: 
+    pillow == 9.3.0
+    customtkinter == 5.2.0
